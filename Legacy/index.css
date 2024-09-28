@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
