@@ -295,7 +295,7 @@ btn-color-1:hover, .btn-color-2:hover {
 .about-pic {
     border-radius: 2rem;
     width: auto;
-    height: 500px;
+    height: 100%;
 }
 
 .arrow {
